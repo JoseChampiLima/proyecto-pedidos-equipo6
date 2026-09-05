@@ -1,18 +1,26 @@
 # proyecto-herramientas-desarrollo-grupo6
 Proyecto de curso Herramientas de desarrollo
+# Proyecto de Gestión de Pedidos
 
-Nombre del proyecto:
-Proyecto de pedidos Grupo 6 
+## Integrantes
 Grupo 6 - Integrantes:
-1. Sandy Dayana Tello Portilla
-2. Jose Rodolfo Chambi Lima
-3. Shandal
-4. Brayan Joseph Peña Ochochoque
-5. Jordan Marshell Mamani Rojas
+- Shantal Lucia Martinez Franco
+- Sandy Dayana Tello Portilla 
+- Eduardo Jesus Jara Moya
+- Jordano Marshell Mamani Rojas
+- Jose Rodolfo Champi Lima
 
-Descripcion del proyecto:
-El proyecto cuenta con modulos de Clientes, Productos y Pedidos
-Funcionalidades principales:
-Cada uno de estas funcionalidades fue desarrollada en ramas independientes y despues integradas en la rama Devlop
-Tecnologia utilizadas:
-Git Comandos
+## Descripción del proyecto
+Sistema básico para registrar y consultar pedidos de clientes de una pequeña empresa, reemplazando el flujo de trabajo basado en correo electrónico.
+
+## Funcionalidades principales
+- *Módulo de clientes:* Registrar y listar clientes.
+- *Módulo de productos:* Registrar y listar productos.
+- *Módulo de pedidos:* Registrar y consultar pedidos.
+
+## Tecnologías utilizadas
+- Html (Lenguaje base)
+- Git y GitHub (Control de versiones)
+
+## Estado del proyecto
+Versión 1.0 completada.

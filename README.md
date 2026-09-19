@@ -6,7 +6,7 @@ Proyecto de curso Herramientas de desarrollo
 Grupo 6 - Integrantes:
 - Shantal Lucia Martinez Franco
 - Sandy Dayana Tello Portilla 
-- Eduardo Jesus Jara Moya
+- Brayan Joseph Peña Ochochoque
 - Jordano Marshell Mamani Rojas
 - Jose Rodolfo Champi Lima
 
